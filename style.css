@@ -13,6 +13,7 @@ body{
 }
 .main-menu ul li{
     display: inline-block;
+    font-weight: 600;
 }
 .main-menu ul a{
     color: white;
