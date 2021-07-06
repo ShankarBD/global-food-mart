@@ -2,6 +2,28 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
+.main-menu{
+    background: #fda502;
+}
+.main-menu ul{
+    margin: 0; 
+    padding: 0; 
+    list-style: none;
+    text-align: center ;
+}
+.main-menu ul li{
+    display: inline-block;
+}
+.main-menu ul a{
+    color: white;
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+}
+.main-menu ul a:hover{
+    background: #f37228;
+    border-radius: 15px;
+}
 h1{
     font-size: 50px;
     line-height: 30px;
